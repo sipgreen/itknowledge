@@ -30,8 +30,8 @@
 ### 基础知识
 
 1. java语言
-2. [Spring](./基础知识/Spring.md)
-3. [Spring Boot](./基础知识/Spring Boot.md)
+2. [Spring](基础知识/Spring.md)
+3. [Spring Boot](基础知识/Spring Boot.md)
 4. Spring Cloud
 5. mybatis
 6. log日志
