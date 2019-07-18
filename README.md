@@ -30,11 +30,12 @@
 ### 基础知识
 
 1. java语言
-2. [Spring](基础知识/Spring.md)
-3. [Spring Boot](基础知识/Spring%20Boot.md)
-4. Spring Cloud
-5. mybatis
-6. log日志
+2. [Linux使用](基础知识/Linux使用.md)
+3. [Spring](基础知识/Spring.md)
+4. [Spring Boot](基础知识/Spring%20Boot.md)
+5. Spring Cloud
+6. mybatis
+7. log日志
 
 ### JavaEE
 
